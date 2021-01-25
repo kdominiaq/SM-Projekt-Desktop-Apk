@@ -1,0 +1,10 @@
+C:\Users\Kacper Dominiak\Downloads\DOT_NET_APP_DEMO-main\DOT_NET_APP_DEMO-main\SerialPortApp\bin\Release\SerialPortApp.exe.config
+C:\Users\Kacper Dominiak\Downloads\DOT_NET_APP_DEMO-main\DOT_NET_APP_DEMO-main\SerialPortApp\bin\Release\SerialPortApp.exe
+C:\Users\Kacper Dominiak\Downloads\DOT_NET_APP_DEMO-main\DOT_NET_APP_DEMO-main\SerialPortApp\bin\Release\SerialPortApp.pdb
+C:\Users\Kacper Dominiak\Downloads\DOT_NET_APP_DEMO-main\DOT_NET_APP_DEMO-main\SerialPortApp\obj\x86\Release\SerialPortApp.csprojAssemblyReference.cache
+C:\Users\Kacper Dominiak\Downloads\DOT_NET_APP_DEMO-main\DOT_NET_APP_DEMO-main\SerialPortApp\obj\x86\Release\SerialPortApp.MainForm.resources
+C:\Users\Kacper Dominiak\Downloads\DOT_NET_APP_DEMO-main\DOT_NET_APP_DEMO-main\SerialPortApp\obj\x86\Release\SerialPortApp.Properties.Resources.resources
+C:\Users\Kacper Dominiak\Downloads\DOT_NET_APP_DEMO-main\DOT_NET_APP_DEMO-main\SerialPortApp\obj\x86\Release\SerialPortApp.csproj.GenerateResource.cache
+C:\Users\Kacper Dominiak\Downloads\DOT_NET_APP_DEMO-main\DOT_NET_APP_DEMO-main\SerialPortApp\obj\x86\Release\SerialPortApp.csproj.CoreCompileInputs.cache
+C:\Users\Kacper Dominiak\Downloads\DOT_NET_APP_DEMO-main\DOT_NET_APP_DEMO-main\SerialPortApp\obj\x86\Release\SerialPortApp.exe
+C:\Users\Kacper Dominiak\Downloads\DOT_NET_APP_DEMO-main\DOT_NET_APP_DEMO-main\SerialPortApp\obj\x86\Release\SerialPortApp.pdb
