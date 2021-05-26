@@ -1,7 +1,7 @@
 ﻿/**
-*   @author Adrian Wojcik
+*   @author Kacper Dominiak
 *   @file MainForm.cs
-*   @date 02.11.17
+*   @date 02.02.2021
 *   @brief Main form class.
 *   Based on project by Amund Gjersøe (www.codeproject.com/Articles/75770/Basic-serial-port-listening-application)
 */
